@@ -20,7 +20,7 @@ Data was gathered from participants in experimental speed dating events from 200
     ● Bi-variate analysis: (choose 3) “me-other” features: e.g. same race, career 1 & 2, shared activities, dating goal etc.<br/>
 3. Dating (analyze each question separately for each gender)<br/>
     ● What’s important for you (what you look for in the opposite sex)<br/>
-        ○ During Sign-up questionnaire<br/>
+        * *○ During Sign-up questionnaire*<br/>
         ○ During Half-way<br/>
         ○ Compare between both<br/>
     ● What’s important for others of the same gender? (what you think MOST of your fellow men/women look for in the opposite sex)<br/>
