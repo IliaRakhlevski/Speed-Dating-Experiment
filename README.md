@@ -9,11 +9,32 @@
 **Dataset description:**<br/>
 Data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, participants were asked if they would like to see their date again. They were also asked to rate their date on six attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
 
-**Tasks description:**<br/>
+**Task: In each of the described sections, present the data in the most appropriate and useful way in your opinion.**<br/>
 1. Meta analysis<br/>
     ● Number of samples, features<br/>
     ● Dtypes<br/>
     ● Missing values statistics (not imputation)<br/>
+2. Fields analysis<br/>
+    ● About the people (choose 3): gender, age, race, field of study, career, activities interests<br/>
+    ● Dating: goal, date, go-out<br/>
+    ● Bi-variate analysis: (choose 3) “me-other” features: e.g. same race, career 1 & 2, shared activities, dating goal etc.<br/>
+3. Dating (analyze each question separately for each gender)<br/>
+    ● What’s important for you (what you look for in the opposite sex)<br/>
+        ○ During Sign-up questionnaire<br/>
+        ○ During Half-way<br/>
+        ○ Compare between both<br/>
+    ● What’s important for others of the same gender? (what you think MOST of your fellow men/women look for in the opposite sex)<br/>
+    ● What’s important for others of the opposite gender? (what do you think the opposite sex looks for in a date)<br/>
+4. Me vs. others (bar/histogram)<br/>
+    ● How do I perceive myself? (how do you think you measure up?)<br/>
+    ● How do I think others perceive me? (how do you think others perceive you?)<br/>
+    ● How do others actually perceive me?<br/>
+        ○ Define this based on dating partners' feedback.<br/>
+        ○ Choose how to aggregate this feedback per participant based on his/her dating partners, and how to aggregate for the whole dataset, per gender.<br/>
+        ○ Present both the values and the agreement score per feature for each gender. For example, how do men in general perceive their women partners' fun/intelligence?<br/>
+           Is there a clear agreement about one’s attractiveness/intelligence etc.)?<br/>
+    ● How many do you expect will be interested in dating you vs. actual (agg. of dec_o)?<br/>
+
 
 **Project files:**<br/>
 * *Speed Dating Data - EDA.ipynb* - Exploratory Data Analysis of the dataset "Speed Dating Data".<br/>
