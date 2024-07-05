@@ -9,6 +9,12 @@
 **Dataset description:**<br/>
 Data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, participants were asked if they would like to see their date again. They were also asked to rate their date on six attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
 
+**Tasks description:**<br/>
+1. Meta analysis
+    ● Number of samples, features
+    ● Dtypes
+    ● Missing values statistics (not imputation)
+
 **Project files:**<br/>
 * *Speed Dating Data - EDA.ipynb* - Exploratory Data Analysis of the dataset "Speed Dating Data".<br/>
 * *Speed Dating Data Key.doc* - The dataset description.<br/>
