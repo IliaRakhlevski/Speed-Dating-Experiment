@@ -5,6 +5,8 @@
 **Dataset:** [Speed Dating Data](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment).<br/>
 **Programming Language:** Python 3.10.<br/>
 **Software:** Spyder IDE 5.4.1, Jupiter Notebook<br/>
+<br/>
+<br/>
 
 **Dataset description:**<br/>
 Data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, participants were asked if they would like to see their date again. They were also asked to rate their date on six attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
@@ -21,10 +23,10 @@ Data was gathered from participants in experimental speed dating events from 200
     * Dating: goal, date, go-out
     * Bi-variate analysis: (choose 3) “me-other” features: e.g. same race, career 1 & 2, shared activities, dating goal etc.
 3. Dating (analyze each question separately for each gender)<br/>
-    * What’s important for you (what you look for in the opposite sex)<br/>
-        * During Sign-up questionnaire<br/>
-        * During Half-way<br/>
-        * Compare between both<br/>
+    * What’s important for you (what you look for in the opposite sex)
+        * During Sign-up questionnaire
+        * During Half-way
+        * Compare between both
     * What’s important for others of the same gender? (what you think MOST of your fellow men/women look for in the opposite sex)
     * What’s important for others of the opposite gender? (what do you think the opposite sex looks for in a date)
 4. Me vs. others (bar/histogram)
@@ -41,11 +43,11 @@ Data was gathered from participants in experimental speed dating events from 200
 5. Effects of experiment setup/surroundings (% match by:)
    * Date order
    * Station number (is there any “lucky table”?)
-   * Waves<br/>
+   * Waves
 6. Towards predicting a decision (correlations analysis)
    * Divide features to me/other/other-on-me data
    * My/other/other-on-me data vs. my/other target (decision/decision_o)
-   * Which features are (not) important?<br/>
+   * Which features are (not) important?
 <br/>
 <br/>
 
