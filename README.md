@@ -9,6 +9,7 @@
 **Dataset description:**<br/>
 Data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, participants were asked if they would like to see their date again. They were also asked to rate their date on six attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
 
+
 **Task: In each of the described sections, present the data in the most appropriate and useful way in your opinion.**<br/>
 1. Meta analysis<br/>
     * Number of samples, features<br/>
@@ -36,7 +37,14 @@ Data was gathered from participants in experimental speed dating events from 200
            For example, how do men in general perceive their women partners' fun/intelligence?<br/>
            Is there a clear agreement about one’s attractiveness/intelligence etc.)?<br/>
     * How many do you expect will be interested in dating you vs. actual (agg. of dec_o)?<br/>
-
+5. Effects of experiment setup/surroundings (% match by:)
+   * Date order
+   * Station number (is there any “lucky table”?)
+   * Waves
+6. Towards predicting a decision (correlations analysis)
+   * Divide features to me/other/other-on-me data
+   * My/other/other-on-me data vs. my/other target (decision/decision_o)
+   * Which features are (not) important?
 
 **Project files:**<br/>
 * *Speed Dating Data - EDA.ipynb* - Exploratory Data Analysis of the dataset "Speed Dating Data".<br/>
