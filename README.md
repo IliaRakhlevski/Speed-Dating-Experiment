@@ -2,6 +2,7 @@
 ## Technion - Israel Institute of Technology<br/>Department: The school of continuing education<br/>Course: Technion Certified Data Scientist
 
 **Course project:** Exploratory Data Analysis of the dataset "Speed Dating Data" with Python.<br/>
+**Project Completion Date:** 2024<br/>
 **Dataset:** [Speed Dating Data](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment).<br/>
 **Programming Language:** Python 3.10.<br/>
 **Software:** Spyder IDE 5.4.1, Jupiter Notebook<br/>
