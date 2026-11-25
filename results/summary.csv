@@ -1,0 +1,6 @@
+configuration,baseline accuracy,best model,accuracy,F1,ROC AUC
+Model 1: own profile → my decision,0.56,Logistic Regression,0.581,0.428,0.596
+Model 2: both profiles → my decision,0.562,Logistic Regression,0.6,0.487,0.629
+Model 2: profiles + ratings → my decision,0.551,SVM (linear),0.769,0.74,0.845
+Model 3: both profiles → partner's decision,0.562,Logistic Regression,0.6,0.487,0.629
+Model 3: profiles + ratings → partner's decision,0.551,SVM (linear),0.771,0.742,0.845
