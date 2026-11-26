@@ -102,3 +102,9 @@ notebooks/            01–04: EDA, models, results
 src/speed_dating/     data.py, features.py, evaluation.py
 results/              per-wave scores of every model (CSV), summary, figures
 ```
+
+## License
+
+The code in this repository is licensed under the [MIT License](LICENSE).
+The dataset in [data/](data/) is not covered by this license: it is the
+[Speed Dating Experiment](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) dataset from Kaggle.
